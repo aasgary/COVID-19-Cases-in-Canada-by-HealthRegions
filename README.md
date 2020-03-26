@@ -6,6 +6,7 @@ What we do:
 3. We geocode the data based on the regions name, province and the country to create a point layer (shapefile).
 4. We then aggregate point cases for each health region to create the COVID-19 cases by health regions.
 This data is updated daily.
+
 Team members:
 Ali Asgary (asgary@yorku.ca) & Wondwosen Agune (enat2012@yorku.ca)
 
